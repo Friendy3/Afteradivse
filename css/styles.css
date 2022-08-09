@@ -1,0 +1,92 @@
+body {
+  background-color: hsl(218, 23%, 16%);
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  font-size: 0.75rem;
+  color: hsl(150, 100%, 66%);
+  font-family: Manrope;
+  font-weight: 800;
+  position: relative;
+  top: 25px;
+  letter-spacing: 0.3rem;
+}
+
+p {
+  font-size: 24px;
+  font-weight: 800;
+  position: relative;
+  top: 12px;
+  color: white;
+  font-family: Manrope;
+  letter-spacing: 0.1rem;
+}
+
+button {
+  background-color: hsl(150, 100%, 66%);
+  border: none;
+  color: white;
+  padding: 30px;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 50%;
+  margin: auto;
+}
+
+hr {
+  position: relative;
+  display: inline-block;
+  color: black;
+  border: 3px solid;
+  width: 200px;
+}
+
+img {
+  position: absolute;
+  right: 49.2%;
+  top: 35%;
+}
+
+.attribution {
+  position: relative;
+  top: 25rem;
+  margin: auto;
+  font-size: 11px;
+  text-align: center;
+}
+
+.main-body {
+  border-radius: 15px;
+  position: relative;
+  top: 12rem;
+  margin: auto;
+  width: 30rem;
+  height: 17rem;
+  background-color: hsl(217, 19%, 24%);
+}
+
+.button-section {
+  position: relative;
+  top: 160px;
+  height: 50px;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.btn:hover{
+    box-shadow: 0px 00px 10px 5px hsl(150, 100%, 66%);
+}
+
+.img:hover {
+    box-shadow: 0px 00px 10px 5px hsl(150, 100%, 66%);
+}
+
+.breaker {
+  float: left;
+}
