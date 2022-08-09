@@ -1,2 +1,2 @@
 # Afteradivse
-App that generates advise
+App that generates advice
