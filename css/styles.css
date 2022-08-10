@@ -12,51 +12,42 @@ h1 {
   font-family: Manrope;
   font-weight: 800;
   position: relative;
-  top: 25px;
+  top: 1.5625rem;
   letter-spacing: 0.3rem;
 }
 
 p {
-  font-size: 24px;
+  font-size: 1.5rem;
   font-weight: 800;
   position: relative;
-  top: 12px;
+  top: 0.75rem;
   color: white;
   font-family: Manrope;
   letter-spacing: 0.1rem;
-  padding: 0 15px 0 15px;
+  padding: 0 0.9375rem 0 0.9375rem;
 }
 
 button {
   background-color: hsl(150, 100%, 66%);
   border: none;
   color: white;
-  padding: 20px;
+  padding: 1.25rem;
   text-decoration: none;
   display: inline-block;
   border-radius: 50%;
   margin: auto;
-  text-align: center;
-}
-
-hr {
-  position: relative;
-  display: inline-block;
-  color: black;
-  border: 3px solid;
-  width: 200px;
+  text-align: center !important;;
 }
 
 .attribution {
   position: relative;
-  top: 25rem;
+  top: 24rem;
   margin: auto;
-  font-size: 11px;
-  text-align: center;
+  font-size: 1rem;
 }
 
 .main-body {
-  border-radius: 15px;
+  border-radius: 0.9375rem;
   position: relative;
   top: 12rem;
   margin: auto;
@@ -67,8 +58,8 @@ hr {
 
 .button-section {
   position: relative;
-  top: 160px;
-  height: 50px;
+  top: 10rem;
+  height: 3.125rem;
 }
 
 .attribution a {
