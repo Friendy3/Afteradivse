@@ -1,2 +1,2 @@
-# Afteradivse
+# Afteradvice
 App that generates advice
