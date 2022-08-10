@@ -24,17 +24,19 @@ p {
   color: white;
   font-family: Manrope;
   letter-spacing: 0.1rem;
+  padding: 0 15px 0 15px;
 }
 
 button {
   background-color: hsl(150, 100%, 66%);
   border: none;
   color: white;
-  padding: 30px;
+  padding: 20px;
   text-decoration: none;
   display: inline-block;
   border-radius: 50%;
   margin: auto;
+  text-align: center;
 }
 
 hr {
@@ -43,12 +45,6 @@ hr {
   color: black;
   border: 3px solid;
   width: 200px;
-}
-
-img {
-  position: absolute;
-  right: 49.2%;
-  top: 35%;
 }
 
 .attribution {
